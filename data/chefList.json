@@ -7,39 +7,40 @@
         "chefDescription": "John is a professional chef with over 10 years of experience.",
         "recipes": [
             {
-                "recipeName": "Pasta",
+                "recipeName": "Butter Chicken",
                 "ingredients": [
-                    "pasta",
-                    "tomatoes",
-                    "olive oil",
+                    "chicken",
+                    "butter",
+                    "onion",
                     "garlic",
-                    "basil"
+                    "tomato puree",
+                    "heavy cream"
                 ],
-                "cookingMethod": "Boil pasta until al dente. In a separate pan, sauté garlic and tomatoes in olive oil. Add cooked pasta to the pan and toss with fresh basil.",
+                "cookingMethod": "Saute onion, garlic, and spices. Add chicken and tomato puree, then cream. Serve.",
                 "rating": 4.5
             },
             {
-                "recipeName": "Pizza",
+                "recipeName": "Tandoori Chicken",
                 "ingredients": [
-                    "pizza dough",
-                    "tomato sauce",
-                    "mozzarella cheese",
-                    "pepperoni",
-                    "mushrooms"
+                    "chicken",
+                    "yogurt",
+                    "spices",
+                    "lemon juice",
+                    "oil"
                 ],
-                "cookingMethod": "Preheat oven to 425 degrees F. Roll out pizza dough and spread tomato sauce on top. Add cheese, pepperoni, and mushrooms. Bake for 12-15 minutes.",
+                "cookingMethod": "Marinate chicken in yogurt and spices. Bake in oven with oil.",
                 "rating": 4.2
             },
             {
-                "recipeName": "Salad",
+                "recipeName": "Biriyani",
                 "ingredients": [
-                    "lettuce",
-                    "tomatoes",
-                    "cucumbers",
-                    "olives",
-                    "feta cheese"
+                    " rice",
+                    "meat",
+                    "onion",
+                    "tomato",
+                    "spices"
                 ],
-                "cookingMethod": "Wash and chop lettuce, tomatoes, and cucumbers. Add olives and feta cheese. Toss with olive oil and vinegar.",
+                "cookingMethod": "Saute onion and spices. Add meat and tomato, then rice and water. Cook covered until done.",
                 "rating": 4
             }
         ],
@@ -53,39 +54,39 @@
         "chefDescription": "Jane is a pastry chef with over 5 years of experience.",
         "recipes": [
             {
-                "recipeName": "Chocolate Cake",
+                "recipeName": "Masala Dosa",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "baking powder",
-                    "eggs"
+                    " rice",
+                    "urad dal",
+                    "salt",
+                    "oil",
+                    "potatoes"
                 ],
-                "cookingMethod": "Preheat oven to 350 degrees F. Mix flour, sugar, cocoa powder, and baking powder in a bowl. Add eggs and mix until smooth. Pour batter into a greased cake pan and bake for 30-35 minutes.",
+                "cookingMethod": "Grind rice and dal into batter. Cook batter like crepe. Stuff with potato filling.",
                 "rating": 4.8
             },
             {
-                "recipeName": "Apple Pie",
+                "recipeName": "Chole Bhature",
                 "ingredients": [
-                    "apples",
-                    "sugar",
-                    "cinnamon",
-                    "nutmeg",
-                    "pie crust"
+                    "chickpeas",
+                    "flour",
+                    "oil",
+                    "spices",
+                    "yogurt"
                 ],
-                "cookingMethod": "Preheat oven to 375 degrees F. Peel and slice apples. Mix sugar, cinnamon, and nutmeg in a bowl. Add apples to the bowl and toss until coated. Pour mixture into pie crust and bake for 45-50 minutes.",
+                "cookingMethod": "Cook chickpeas with spices. Mix flour and yogurt into dough. Fry in oil.",
                 "rating": 4.6
             },
             {
-                "recipeName": "Cupcakes",
+                "recipeName": "Rogan Josh",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "butter",
-                    "eggs",
-                    "vanilla extract"
+                    "lamb",
+                    "onion",
+                    "tomato",
+                    "yogurt",
+                    "spices"
                 ],
-                "cookingMethod": "Preheat oven to 350 degrees F. Mix flour, sugar, butter, eggs, and vanilla extract in a bowl until smooth. Pour batter into cupcake liners and bake for 20-25 minutes.",
+                "cookingMethod": "Brown lamb. Saute onion and spices. Add tomato and yogurt. Simmer until lamb is tender.",
                 "rating": 4.3
             }
         ],
@@ -99,39 +100,39 @@
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
         "recipes": [
             {
-                "recipeName": "Spaghetti Carbonara",
+                "recipeName": "Saag Paneer",
                 "ingredients": [
-                    "spaghetti",
-                    "bacon",
-                    "eggs",
-                    "parmesan cheese",
-                    "black pepper"
+                    "spinach",
+                    "paneer",
+                    "onion",
+                    "tomato",
+                    "spices"
                 ],
-                "cookingMethod": "Boil spaghetti until al dente. Cook bacon until crispy. Beat eggs and parmesan cheese together. Toss spaghetti with bacon and egg mixture. Season with black pepper.",
+                "cookingMethod": "Saute onion and spices. Add spinach and tomato. Cook until spinach is wilted. Add paneer.",
                 "rating": 4.5
             },
             {
-                "recipeName": "Beef Stroganoff",
+                "recipeName": "Chicken Tikka Masala",
                 "ingredients": [
-                    "beef sirloin",
-                    "onion",
-                    "mushrooms",
-                    "sour cream",
-                    "beef broth"
+                    "chicken",
+                    "yogurt",
+                    "tomato sauce",
+                    "cream",
+                    "spices"
                 ],
-                "cookingMethod": "Season beef with salt and pepper. Brown beef in a pan. Add onion and mushrooms. Cook until tender. Add sour cream and beef broth. Simmer until sauce thickens.",
+                "cookingMethod": "Marinate chicken in yogurt and spices. Grill chicken. Mix tomato sauce and cream. Add chicken.",
                 "rating": 4.2
             },
             {
-                "recipeName": "Chicken Alfredo",
+                "recipeName": "Vada Pav",
                 "ingredients": [
-                    "chicken breast",
-                    "fettuccine pasta",
-                    "heavy cream",
-                    "butter",
-                    "parmesan cheese"
+                    "potato",
+                    "flour",
+                    "spices",
+                    "chutney",
+                    "bun"
                 ],
-                "cookingMethod": "Cook chicken breast in a pan. Boil fettuccine pasta until al dente. Melt butter in a pan. Add heavy cream and parmesan cheese. Stir until sauce thickens. Toss pasta with sauce and chicken.",
+                "cookingMethod": "Mash potato with spices. Make batter with flour. Fry potato balls. Serve in bun with chutney.",
                 "rating": 4.7
             }
         ],
@@ -145,38 +146,39 @@
         "chefDescription": "I am a professional chef with over 8 years of experience in the culinary arts.",
         "recipes": [
             {
-                "recipeName": "Beef Wellington",
+                "recipeName": "Pav Bhaji",
                 "ingredients": [
-                    "beef tenderloin",
-                    "puff pastry",
-                    "mushrooms",
-                    "prosciutto",
-                    "egg wash"
+                    "vegetables, , , ",
+                    "onion",
+                    "butter",
+                    "spices",
+                    "buns"
                 ],
-                "cookingMethod": "Season beef tenderloin with salt and pepper. Sear beef on all sides. Wrap beef in puff pastry with mushrooms and prosciutto. Brush with egg wash. Bake until golden brown.",
+                "cookingMethod": "Saute vegetables with butter and spices. Mash vegetables. Serve on buns.",
                 "rating": 4.9
             },
             {
-                "recipeName": "Lobster Bisque",
+                "recipeName": "Samosas",
                 "ingredients": [
-                    "lobster meat",
-                    "heavy cream",
-                    "butter",
-                    "flour",
-                    "chicken broth"
+                    " flour",
+                    "potatoes",
+                    "peas",
+                    "spices",
+                    "oil"
                 ],
-                "cookingMethod": "Melt butter in a pan. Add flour to make a roux. Add chicken broth and heavy cream. Simmer until sauce thickens. Add lobster meat and cook until heated through.",
+                "cookingMethod": "Make dough with flour. Stuff with potato and pea mixture. Fry in oil.",
                 "rating": 4.6
             },
             {
-                "recipeName": "Crème Brûlée",
+                "recipeName": "Aloo Gobi",
                 "ingredients": [
-                    "heavy cream",
-                    "egg yolks",
-                    "sugar",
-                    "vanilla extract"
+                    "potato",
+                    "cauliflower",
+                    "onion",
+                    "tomato",
+                    "spices"
                 ],
-                "cookingMethod": "Heat heavy cream in a pan. Beat egg yolks and sugar together. Slowly add hot cream to egg mixture while whisking constantly. Add vanilla extract. Pour mixture into ramekins and bake in a water bath until set.",
+                "cookingMethod": "Saute onion and spices. Add potato and cauliflower. Cook until tender.",
                 "rating": 4.8
             }
         ],
@@ -190,39 +192,39 @@
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
         "recipes": [
             {
-                "recipeName": "Spaghetti Carbonara",
+                "recipeName": "Palak Paneer",
                 "ingredients": [
-                    "spaghetti",
-                    "bacon",
-                    "eggs",
-                    "parmesan cheese",
-                    "black pepper"
+                    " spinach",
+                    "paneer",
+                    "onion",
+                    "tomato",
+                    "spices"
                 ],
-                "cookingMethod": "Boil spaghetti until al dente. Fry bacon until crispy. Beat eggs and parmesan cheese together. Drain spaghetti and add to bacon. Add egg mixture and stir until eggs are cooked. Season with black pepper.",
+                "cookingMethod": "Saute onion and spices. Add spinach and tomato. Cook until spinach is wilted. Add paneer.",
                 "rating": 4.5
             },
             {
-                "recipeName": "Beef Stroganoff",
+                "recipeName": "Dal Makhani",
                 "ingredients": [
-                    "beef",
-                    "sour cream",
-                    "onion",
-                    "mushrooms",
-                    "beef broth"
+                    "black lentils",
+                    "kidney beans",
+                    "tomato",
+                    "cream",
+                    "spices"
                 ],
-                "cookingMethod": "Brown beef in a pan. Add onions and mushrooms and cook until soft. Add beef broth and simmer for 30 minutes. Stir in sour cream and serve over noodles.",
+                "cookingMethod": "Soak and cook lentils and beans. Add tomato and cream. Simmer until flavors blend.",
                 "rating": 4.2
             },
             {
-                "recipeName": "Chicken Alfredo",
+                "recipeName": "Naan",
                 "ingredients": [
-                    "chicken",
-                    "fettuccine",
-                    "heavy cream",
+                    "flour",
+                    "yogurt",
+                    "yeast",
                     "butter",
-                    "parmesan cheese"
+                    "salt"
                 ],
-                "cookingMethod": "Cook chicken in a pan until browned. Cook fettuccine according to package directions. Melt butter in a saucepan. Add heavy cream and parmesan cheese and stir until melted. Add chicken to sauce and serve over fettuccine.",
+                "cookingMethod": "Mix dough with flour, yogurt, yeast, and salt. Bake in oven with butter.",
                 "rating": 4.8
             }
         ],
@@ -236,39 +238,39 @@
         "chefDescription": "I am a passionate home cook who loves to experiment with new flavors and techniques.",
         "recipes": [
             {
-                "recipeName": "Beef Tacos",
+                "recipeName": "Papdi Chaat",
                 "ingredients": [
-                    "ground beef",
-                    "taco seasoning",
-                    "tortillas",
-                    "lettuce",
-                    "tomatoes"
+                    "papdi, , , , ",
+                    "potatoes",
+                    "chickpeas",
+                    "yogurt",
+                    "chutney"
                 ],
-                "cookingMethod": "Brown ground beef in a pan. Add taco seasoning and cook for another minute. Heat tortillas in the microwave or on the stove. Assemble tacos with beef, lettuce, and tomatoes.",
+                "cookingMethod": " Arrange papdi on plate. Top with potatoes and chickpeas. Drizzle with yogurt and chutney.",
                 "rating": 4
             },
             {
-                "recipeName": "Pesto Pasta",
+                "recipeName": "Paneer Tikka",
                 "ingredients": [
-                    "pasta",
-                    "pesto sauce",
-                    "cherry tomatoes",
-                    "parmesan cheese",
-                    "pine nuts"
+                    "paneer, , , , ",
+                    "yogurt",
+                    "spices",
+                    "onion",
+                    "bell pepper"
                 ],
-                "cookingMethod": "Cook pasta according to package directions. Drain pasta and add pesto sauce. Stir in cherry tomatoes, parmesan cheese, and pine nuts.",
+                "cookingMethod": "Marinate paneer in yogurt and spices. Skewer with onion and bell pepper. Grill..",
                 "rating": 4.3
             },
             {
-                "recipeName": "Jane's Famous Chocolate Chip Cookies",
+                "recipeName": "Bhel Puri",
                 "ingredients": [
-                    "flour",
-                    "butter",
-                    "sugar",
-                    "brown sugar",
-                    "chocolate chips"
+                    "puffed rice",
+                    "vegetables",
+                    "boiled potatoes",
+                    "chutney",
+                    "sev"
                 ],
-                "cookingMethod": "Preheat oven to 375°F (190°C). Cream together butter, sugar, and brown sugar until light and fluffy. Beat in eggs one at a time, then stir in vanilla. Combine flour, baking soda, and salt; gradually stir into butter mixture. Stir in chocolate chips. Drop by rounded tablespoonfuls onto unerased cookie sheets. Bake for 8 to 10 minutes or until golden brown.",
+                "cookingMethod": "Mix puffed rice with vegetables and chutney. Top with sev.",
                 "rating": 4.7
             }
         ],
