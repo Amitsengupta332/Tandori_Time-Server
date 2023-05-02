@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "chefPicture": "https://www.example.com/chef1.jpg",
+        "chefPicture": "https://img.freepik.com/premium-photo/happy-male-indian-chef-standing-grey-wall_156779-277.jpg?w=740",
         "chefName": "John Doe",
         "yearsOfExperience": 10,
         "chefDescription": "John is a professional chef with over 10 years of experience.",
@@ -48,7 +48,7 @@
     },
     {
         "id": 2,
-        "chefPicture": "https://www.example.com/chef2.jpg",
+        "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683044827~exp=1683045427~hmac=72eca166280a97cf9a0b054506ad2dc80709d7a0091591efbf64d1cc88092df6",
         "chefName": "Jane Smith",
         "yearsOfExperience": 5,
         "chefDescription": "Jane is a pastry chef with over 5 years of experience.",
@@ -94,7 +94,7 @@
     },
     {
         "id": 3,
-        "chefPicture": "https://www.example.com/chef1.jpg",
+        "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683041433~exp=1683042033~hmac=a45d96764f156d5d19f71a854e9157f12aa3eb3da70b5ffbeb1053da9614a3fd",
         "chefName": "Chef John",
         "yearsOfExperience": 10,
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
@@ -140,7 +140,7 @@
     },
     {
         "id": 4,
-        "chefPicture": "https://www.example.com/chef2.jpg",
+        "chefPicture": "https://img.freepik.com/free-photo/smiling-emotional-young-cook-with-thumbs-up_171337-5337.jpg?w=740&t=st=1683045085~exp=1683045685~hmac=54c13b0124b6fa30ac0f368dac39e40037bcc561135b3c5a336de51b6582ef0f",
         "chefName": "Chef Sarah",
         "yearsOfExperience": 8,
         "chefDescription": "I am a professional chef with over 8 years of experience in the culinary arts.",
@@ -186,7 +186,7 @@
     },
     {
         "id": 5,
-        "chefPicture": "https://www.example.com/chef1.jpg",
+        "chefPicture": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?w=740&t=st=1683045245~exp=1683045845~hmac=52805b17e02b4668e8a54e9358d474ae530644427cc4f85ef500e7e79bc3be06",
         "chefName": "John Smit",
         "yearsOfExperience": 10,
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
@@ -232,7 +232,7 @@
     },
     {
         "id": 6,
-        "chefPicture": "https://www.example.com/chef2.jpg",
+        "chefPicture": "https://img.freepik.com/free-photo/young-bearded-man-his-work-place-cooking-vegetables_496169-93.jpg?w=740&t=st=1683041867~exp=1683042467~hmac=5f904750081fe98cba39615e7e50c1ef7bac0987c2844a2782bee08a624576fb",
         "chefName": "Jane Smith",
         "yearsOfExperience": 5,
         "chefDescription": "I am a passionate home cook who loves to experiment with new flavors and techniques.",
