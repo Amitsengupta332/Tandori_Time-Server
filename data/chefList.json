@@ -18,7 +18,7 @@
                      
                 ],
                 "cookingMethod": "Saute onion, garlic, and spices. Add chicken and tomato puree, then cream. Serve.",
-                "rating": 4.5
+                "rating": 4.3
             },
             {
                 "recipeName": "Tandoori Chicken",
@@ -47,7 +47,7 @@
                 "rating": 4
             }
         ],
-        "likes": 1000
+        "likes": 800
     },
     {
         "id": 2,
@@ -67,7 +67,7 @@
                     "potatoes"
                 ],
                 "cookingMethod": "Grind rice and dal into batter. Cook batter like crepe. Stuff with potato filling.",
-                "rating": 4.8
+                "rating": 5
             },
             {
                 "recipeName": "Chole Bhature",
@@ -80,7 +80,7 @@
                     "yogurt"
                 ],
                 "cookingMethod": "Cook chickpeas with spices. Mix flour and yogurt into dough. Fry in oil.",
-                "rating": 4.6
+                "rating": 4.4
             },
             {
                 "recipeName": "Rogan Josh",
@@ -93,7 +93,7 @@
                     "spices"
                 ],
                 "cookingMethod": "Brown lamb. Saute onion and spices. Add tomato and yogurt. Simmer until lamb is tender.",
-                "rating": 4.3
+                "rating": 4.0
             }
         ],
         "likes": 500
@@ -165,7 +165,7 @@
                     "buns"
                 ],
                 "cookingMethod": "Saute vegetables with butter and spices. Mash vegetables. Serve on buns.",
-                "rating": 4.9
+                "rating": 5
             },
             {
                 "recipeName": "Samosas",
@@ -214,7 +214,7 @@
                     "spices"
                 ],
                 "cookingMethod": "Saute onion and spices. Add spinach and tomato. Cook until spinach is wilted. Add paneer.",
-                "rating": 4.5
+                "rating": 5
             },
             {
                 "recipeName": "Dal Makhani",
@@ -227,7 +227,7 @@
                     "spices"
                 ],
                 "cookingMethod": "Soak and cook lentils and beans. Add tomato and cream. Simmer until flavors blend.",
-                "rating": 4.2
+                "rating": 4.0
             },
             {
                 "recipeName": "Naan",
@@ -243,7 +243,7 @@
                 "rating": 4.8
             }
         ],
-        "likes": 1000
+        "likes": 1300
     },
     {
         "id": 6,
@@ -276,7 +276,7 @@
                     "bell pepper"
                 ],
                 "cookingMethod": "Marinate paneer in yogurt and spices. Skewer with onion and bell pepper. Grill..",
-                "rating": 4.3
+                "rating": 4.2
             },
             {
                 "recipeName": "Bhel Puri",
@@ -289,9 +289,9 @@
                     "sev"
                 ],
                 "cookingMethod": "Mix puffed rice with vegetables and chutney. Top with sev.",
-                "rating": 4.7
+                "rating": 5
             }
         ],
-        "likes": 500
+        "likes": 700
     }
 ]
