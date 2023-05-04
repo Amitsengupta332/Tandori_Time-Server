@@ -2,25 +2,27 @@
     {
         "id": 1,
         "chefPicture": "https://img.freepik.com/premium-photo/happy-male-indian-chef-standing-grey-wall_156779-277.jpg?w=740",
-        "chefName": "John Doe",
-        "yearsOfExperience": 10,
+        "chefName": "Sanjeev Kapoor",
+        "yearsOfExperience": 2,
         "chefDescription": "John is a professional chef with over 10 years of experience.",
         "recipes": [
             {
                 "recipeName": "Butter Chicken",
+                "recipeImg": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?w=740&t=st=1683121022~exp=1683121622~hmac=21cbd3171c3b236897859afa55aca7c9381c948c51d6aa363ce8cf78494707db",
                 "ingredients": [
                     "chicken",
                     "butter",
                     "onion",
                     "garlic",
-                    "tomato puree",
-                    "heavy cream"
+                    "tomato puree"
+                     
                 ],
                 "cookingMethod": "Saute onion, garlic, and spices. Add chicken and tomato puree, then cream. Serve.",
                 "rating": 4.5
             },
             {
                 "recipeName": "Tandoori Chicken",
+                "recipeImg":"https://img.freepik.com/free-photo/side-view-baked-chicken-with-cucumber-lemon-seasoning-bread-table_141793-4757.jpg?w=740&t=st=1683122419~exp=1683123019~hmac=ecc882c36f5260bcf951b1fdba365bbaf65217281fb427658eadba40f7c7a099",
                 "ingredients": [
                     "chicken",
                     "yogurt",
@@ -28,11 +30,12 @@
                     "lemon juice",
                     "oil"
                 ],
-                "cookingMethod": "Marinate chicken in yogurt and spices. Bake in oven with oil.",
+                "cookingMethod": "Marinate chicken in yogurt and spices, bake or grill until charred, and serve with mint chutney  tasty tandoori chicken meal.",
                 "rating": 4.2
             },
             {
                 "recipeName": "Biriyani",
+                "recipeImg": "https://img.freepik.com/free-photo/top-close-up-view-spices-colorful-spices-pilaf-board-garlic_140725-78723.jpg?w=740&t=st=1683121082~exp=1683121682~hmac=b9e9d92020637f8a87485a0f1d9c29c03d3d2cb3a643ff254b3211c72e4b5eb0",
                 "ingredients": [
                     " rice",
                     "meat",
@@ -40,7 +43,7 @@
                     "tomato",
                     "spices"
                 ],
-                "cookingMethod": "Saute onion and spices. Add meat and tomato, then rice and water. Cook covered until done.",
+                "cookingMethod": "Layer cooked rice with the meat mixture, fried onions, and herbs. Bake in the oven until golden brown for a delicious biryani dish.",
                 "rating": 4
             }
         ],
@@ -49,12 +52,13 @@
     {
         "id": 2,
         "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683044827~exp=1683045427~hmac=72eca166280a97cf9a0b054506ad2dc80709d7a0091591efbf64d1cc88092df6",
-        "chefName": "Jane Smith",
+        "chefName": "Vikas Khanna",
         "yearsOfExperience": 5,
         "chefDescription": "Jane is a pastry chef with over 5 years of experience.",
         "recipes": [
             {
                 "recipeName": "Masala Dosa",
+                "recipeImg": "https://img.freepik.com/free-photo/delicious-indian-dosa-composition_23-2149086051.jpg?w=740&t=st=1683102946~exp=1683103546~hmac=3cd9eea06fdd94874deeec8f3fa203cd8b9fddef89f86f774deac30af867909b",
                 "ingredients": [
                     " rice",
                     "urad dal",
@@ -67,6 +71,7 @@
             },
             {
                 "recipeName": "Chole Bhature",
+                "recipeImg": "https://img.freepik.com/free-photo/aloo-paratha-gobi-paratha-also-known-as-potato-cauliflower-stuffed-flatbread-dish-originating-from-indian-subcontinent_466689-76172.jpg?w=740&t=st=1683110473~exp=1683111073~hmac=d0134bf35437c656cdbf55d28e3018268a666bbb438106de1e013d30a9c2fa19",
                 "ingredients": [
                     "chickpeas",
                     "flour",
@@ -79,6 +84,7 @@
             },
             {
                 "recipeName": "Rogan Josh",
+                "recipeImg": "https://img.freepik.com/free-photo/ong-chili-paste-mortar-decorated-with-beautiful-side-dishes_1150-24469.jpg?w=740&t=st=1683103450~exp=1683104050~hmac=de27a1f6894786b620e3a652db6ad2121554f63d833926a34aba104e61cf8c22",
                 "ingredients": [
                     "lamb",
                     "onion",
@@ -95,12 +101,13 @@
     {
         "id": 3,
         "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683041433~exp=1683042033~hmac=a45d96764f156d5d19f71a854e9157f12aa3eb3da70b5ffbeb1053da9614a3fd",
-        "chefName": "Chef John",
-        "yearsOfExperience": 10,
+        "chefName": "Aditya Bal",
+        "yearsOfExperience": 3,
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
         "recipes": [
             {
                 "recipeName": "Saag Paneer",
+                "recipeImg": "https://img.freepik.com/free-photo/top-view-pakistani-food-arrangement_23-2148825109.jpg?w=740&t=st=1683104180~exp=1683104780~hmac=90fb910a71272323d51c078d0d6532ead41e989e03137d7f89efa216921e0c79",
                 "ingredients": [
                     "spinach",
                     "paneer",
@@ -113,6 +120,7 @@
             },
             {
                 "recipeName": "Chicken Tikka Masala",
+                "recipeImg": "https://img.freepik.com/free-photo/whole-chicken-grill-served-with-rice-garnish-white-plate_114579-873.jpg?w=740&t=st=1683110912~exp=1683111512~hmac=d199f583dc2fb3f7d19650dd8593573ea573c3899031d5e785e0a028587e6938",
                 "ingredients": [
                     "chicken",
                     "yogurt",
@@ -125,6 +133,7 @@
             },
             {
                 "recipeName": "Vada Pav",
+                "recipeImg": "https://img.freepik.com/free-photo/baked-potato-with-herbs-sauce-vegan-food-healthy-meal_2829-6951.jpg?w=740&t=st=1683104090~exp=1683104690~hmac=b810c9342710d6a659e4691555e8df10cb93b745145278ebfc01e9e1a46b3c7f",
                 "ingredients": [
                     "potato",
                     "flour",
@@ -141,14 +150,15 @@
     {
         "id": 4,
         "chefPicture": "https://img.freepik.com/free-photo/smiling-emotional-young-cook-with-thumbs-up_171337-5337.jpg?w=740&t=st=1683045085~exp=1683045685~hmac=54c13b0124b6fa30ac0f368dac39e40037bcc561135b3c5a336de51b6582ef0f",
-        "chefName": "Chef Sarah",
-        "yearsOfExperience": 8,
+        "chefName": "Ranveer Brar",
+        "yearsOfExperience": 7,
         "chefDescription": "I am a professional chef with over 8 years of experience in the culinary arts.",
         "recipes": [
             {
                 "recipeName": "Pav Bhaji",
+                "recipeImg": "https://img.freepik.com/free-photo/meat-dish-with-vegetables_144627-18109.jpg?w=740&t=st=1683104003~exp=1683104603~hmac=797b10cb79be9e9e3d75a42db648415109f3b4a45b0c4c1086a4f24dfa44c3d4",
                 "ingredients": [
-                    "vegetables, , , ",
+                    "vegetables",
                     "onion",
                     "butter",
                     "spices",
@@ -159,6 +169,7 @@
             },
             {
                 "recipeName": "Samosas",
+                "recipeImg": "https://img.freepik.com/free-photo/delicious-pakistani-food-with-tomato-sauce_23-2148825164.jpg?w=740&t=st=1683103961~exp=1683104561~hmac=440d20194786f156acd2e004e0f2bbf2bc2ad1fe692fe93e7a9ab5418e1c7944",
                 "ingredients": [
                     " flour",
                     "potatoes",
@@ -171,6 +182,7 @@
             },
             {
                 "recipeName": "Aloo Gobi",
+                "recipeImg": "https://img.freepik.com/free-photo/deep-fried-wonton-white-wooden-surface_1150-43543.jpg?w=740&t=st=1683103905~exp=1683104505~hmac=0899467bd33ca561126395198b18c0369dc01393db5e0330aefffbbd21f1dd03",
                 "ingredients": [
                     "potato",
                     "cauliflower",
@@ -187,12 +199,13 @@
     {
         "id": 5,
         "chefPicture": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?w=740&t=st=1683045245~exp=1683045845~hmac=52805b17e02b4668e8a54e9358d474ae530644427cc4f85ef500e7e79bc3be06",
-        "chefName": "John Smit",
-        "yearsOfExperience": 10,
+        "chefName": "Saransh Goila",
+        "yearsOfExperience": 6,
         "chefDescription": "I am a professional chef with over 10 years of experience in the culinary arts.",
         "recipes": [
             {
                 "recipeName": "Palak Paneer",
+                "recipeImg": "https://img.freepik.com/free-photo/top-view-pakistani-food-arrangement_23-2148825109.jpg?w=740&t=st=1683103865~exp=1683104465~hmac=a492cd25b00845262e6816a8978229ea0224d7a922fa4578c0b645d3fb374d0c",
                 "ingredients": [
                     " spinach",
                     "paneer",
@@ -205,6 +218,7 @@
             },
             {
                 "recipeName": "Dal Makhani",
+                "recipeImg": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?w=740&t=st=1683103824~exp=1683104424~hmac=461186e90f55f3cddc745504de9d9c5077b8659a648574f750c5918f4cee8300",
                 "ingredients": [
                     "black lentils",
                     "kidney beans",
@@ -217,6 +231,7 @@
             },
             {
                 "recipeName": "Naan",
+                "recipeImg": "https://img.freepik.com/free-photo/close-up-tasty-white-pita-bread_23-2148294995.jpg?w=740&t=st=1683103790~exp=1683104390~hmac=36c6cbef430b5ffa4a2d7bfd21637f3a968ce4d8f30a4552417bc0cc25409cc7",
                 "ingredients": [
                     "flour",
                     "yogurt",
@@ -233,12 +248,13 @@
     {
         "id": 6,
         "chefPicture": "https://img.freepik.com/free-photo/young-bearded-man-his-work-place-cooking-vegetables_496169-93.jpg?w=740&t=st=1683041867~exp=1683042467~hmac=5f904750081fe98cba39615e7e50c1ef7bac0987c2844a2782bee08a624576fb",
-        "chefName": "Jane Smith",
-        "yearsOfExperience": 5,
+        "chefName": "Kunal Kapur",
+        "yearsOfExperience": 10,
         "chefDescription": "I am a passionate home cook who loves to experiment with new flavors and techniques.",
         "recipes": [
             {
                 "recipeName": "Papdi Chaat",
+                "recipeImg": "https://img.freepik.com/free-photo/dish-with-rice_144627-18096.jpg?w=740&t=st=1683103749~exp=1683104349~hmac=0efa9341fc6b58c128f72f1125e55ee47ed500fd1b805c4048305f945f3a880b",
                 "ingredients": [
                     "papdi, , , , ",
                     "potatoes",
@@ -251,6 +267,7 @@
             },
             {
                 "recipeName": "Paneer Tikka",
+                "recipeImg": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19997.jpg?w=740&t=st=1683103709~exp=1683104309~hmac=fd8f7e8d617a74f88ad3c92b1308e9954aeca8fcc2d8c21eb169a19dffb5c060",
                 "ingredients": [
                     "paneer, , , , ",
                     "yogurt",
@@ -263,6 +280,7 @@
             },
             {
                 "recipeName": "Bhel Puri",
+                "recipeImg": "https://img.freepik.com/free-photo/front-view-arrangement-with-delicious-pakistan-meal_23-2148821533.jpg?w=740&t=st=1683103670~exp=1683104270~hmac=1919fcfa0ec5b9f724b4e15ff2b62031ed6b2f1cbeeddcad1754921be79504aa",
                 "ingredients": [
                     "puffed rice",
                     "vegetables",
